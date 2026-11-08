@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">مخفي التطبيقات</string>
+    <string name="tab_apps">التطبيقات</string>
+    <string name="tab_vault">الخزنة السرية</string>
+    <string name="tab_settings">الأمان والإعدادات</string>
+    <string name="tab_launcher">درج التطبيقات</string>
+    <string name="search_hint">ابحث عن تطبيق...</string>
+    <string name="hide_app">إخفاء</string>
+    <string name="unhide_app">إظهار التطبيق</string>
+    <string name="hidden_apps_count">التطبيقات المخفية (%d)</string>
+    <string name="all_apps_count">كافة التطبيقات (%d)</string>
+    <string name="visible_apps_count">التطبيقات الظاهرة (%d)</string>
+    <string name="enter_pin">أدخل رمز PIN السري</string>
+    <string name="setup_pin">تعيين رمز PIN السري</string>
+    <string name="confirm_pin">أعد إدخال الرمز للتأكيد</string>
+    <string name="pin_incorrect">رمز PIN غير صحيح</string>
+    <string name="pin_mismatch">الرمزان غير متطابقين!</string>
+    <string name="pin_success">تم حفظ رمز PIN بنجاح</string>
+    <string name="calculator_disguise">تمويه الآلة الحاسبة</string>
+    <string name="calculator_disguise_desc">يفتح التطبيق كآلة حاسبة طبيعية تعمل بالكامل، اضغط الرمز متبوعاً بـ = للدخول للخزنة</string>
+    <string name="launch_app">فتح التطبيق</string>
+    <string name="app_info">إعدادات النظام (لتعطيل التطبيق كلياً)</string>
+    <string name="empty_hidden_title">لا توجد تطبيقات مخفية</string>
+    <string name="empty_hidden_desc">انتقل إلى تبويب التطبيقات واضغط على أيقونة الإخفاء لنقل أي تطبيق إلى هذه الخزنة المشفرة</string>
+    <string name="empty_apps_title">لم يتم العثور على نتائج</string>
+    <string name="empty_apps_desc">جرّب البحث باسم آخر</string>
+    <string name="decoy_pin">الرمز التمويهي (Fake PIN)</string>
+    <string name="decoy_pin_desc">فتح خزنة فارغة وهمية عند إدخال هذا الرمز لحمايتك في المواقف الحرجة</string>
+    <string name="change_pin">تغيير رمز PIN الرئيسي</string>
+    <string name="security_status">الحماية النشطة: مشفرة محلياً</string>
+    <string name="set_as_default_launcher">استخدام كلانشر افتراضي</string>
+    <string name="set_as_default_launcher_desc">اختر هذا التطبيق كمشغل رئيسي حتى لا تظهر التطبيقات المخفية أبداً في هاتفك</string>
+    <string name="system_freeze_guide">طريقة الإخفاء الجذري عبر النظام</string>
+    <string name="system_freeze_desc">انقر على أي تطبيق ثم اختر «إعدادات النظام» واضغط «تعطيل (Disable)». هذا سيخفي التطبيق حتى من إعدادات الهاتف وقائمة التطبيقات الأساسية.</string>
+    <string name="quick_lock">قفل فوري عند الخروج</string>
+    <string name="quick_lock_desc">إعادة قفل الخزنة فور تصغير التطبيق أو قفل الشاشة</string>
+    <string name="unlock_vault">فتح الخزنة</string>
+    <string name="app_hidden_toast">تم نقل التطبيق إلى الخزنة المخفية</string>
+    <string name="app_unhidden_toast">تمت استعادة التطبيق إلى القائمة</string>
+</resources>

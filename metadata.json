@@ -1,0 +1,6 @@
+{
+  "name": "مخفي التطبيقات",
+  "description": "تطبيق متطور لإخفاء التطبيقات من القائمة وحمايتها في خزنة سرية مشفرة بـ PIN ووضع الآلة الحاسبة المموهة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
